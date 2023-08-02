@@ -1,3 +1,4 @@
+// add .ignore setting is true
 {
     "git.ignoreLimitWarning": true
 }
