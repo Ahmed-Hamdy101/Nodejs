@@ -10,4 +10,19 @@
 
 ## requiments
 - you should have node installtion
--  
+- to run :
+```npm
+node index.js
+```
+- you can also run but sure you the file name's `index.js` :
+```npm
+node .
+```
+- alternative way without `node`:
+```javascript
+console.log("Hello world from index")
+```
+- open your browser, toggle console, => otuput
+```console
+hello world from index
+```
