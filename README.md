@@ -7,3 +7,7 @@
 - ch5 : event loop
 - ch6 : NPM
 - ch7 : all ine one
+
+## requiments
+- you should have node installtion
+-  
