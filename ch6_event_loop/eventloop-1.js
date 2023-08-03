@@ -42,7 +42,7 @@ console.log('nexttrick -------- before event loop');
 console.log('Immediate --------- Timers 1');
 
  });
-
+// timer phase 4
  setTimeout(()=>{
     console.log('timeout -- fs:4s ----- Timers');  
    },3);
