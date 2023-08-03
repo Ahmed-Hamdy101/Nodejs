@@ -1,3 +1,4 @@
-const {file} = require('./util/util');// #method1
-// require("./src/util/util"); //method2
+// import file
+const {file} = require('./util/util');
+// log file
 console.log(file);
