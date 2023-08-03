@@ -1,4 +1,4 @@
-// require("./src/util/util"); //method2
-// #method1
+// import file from util
 const { file } = require("./src/util/util");
+// log to see the output
 console.log(file);
