@@ -65,17 +65,6 @@
 //       }, 100);
     
          
-// }
-// )
-// 7 - run util_lib
-//  ---skip
-
-// 8 - run npm
-
-
-// 9 - run node
-
-// Make test
 
 console.log("Hello NodeJs v18.4");
 const file = require('./util/index');
