@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "node_run",
+=======
+  "name": "NodeJs",
+>>>>>>> cb6cd347ed4fdc2ceef00f8981cddae768182b2d
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
