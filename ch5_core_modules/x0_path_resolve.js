@@ -1,5 +1,6 @@
-// get absolute path
+// import path from file system
 import  path from "path";
-// const path = require('path');
+// path resolve method is used to resolve a sequence of path 
 const path  = path.resolve();
-
+// log the output
+console.log(path);
